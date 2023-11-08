@@ -165,3 +165,5 @@ db.sqlite3
 /env
 *.env
 .vscode
+
+*.DS_store
